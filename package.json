@@ -28,6 +28,7 @@
   "author": "Mathieu Colmon",
   "license": "ISC",
   "dependencies": {
+    "@mathieuc/tradingview": "^3.5.1",
     "axios": "^1.5.0",
     "jszip": "^3.7.1",
     "ws": "^7.4.3"
